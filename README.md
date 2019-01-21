@@ -5,7 +5,7 @@ Profile analysis and customer segmentation are essential steps before a marketin
 By using knowledge of a customer profile and market segment, a management has more information to make decisions in product development, 
 advertising, promotion, pricing, and targeting marketing. 
 
-An video tutorial demonstrating the same can be referrred at https://www.youtube.com/watch?v=u3vLN2B-ixE
+Video tutorial series (part1-part10) demonstrating the same can be referrred at https://www.youtube.com/watch?v=FIboCerirXY&t=70s
 
 # Steps to run the code (via Notebook):-
 1) Clone/Download the repository.
